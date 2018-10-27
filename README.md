@@ -17,6 +17,10 @@ A. Latihan1 #Program menampilkan bilangan terbesar dari sejumlah bilangan acak y
 		if ( x> max) // jika x lebih besar dari max
 	    	max= x   // maka nilai max adalah x
 
+=> Berikut Flowchartnya :
+![flowchart1](https://user-images.githubusercontent.com/43899109/47564530-83b32680-d94f-11e8-8c80-9458d8de3c61.jpg)
+
+
 
 => Berikut kode C++ :
 
